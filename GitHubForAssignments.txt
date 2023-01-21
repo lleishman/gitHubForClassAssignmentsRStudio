@@ -1,0 +1,1 @@
+Last semester I did both ways of uploading assignments.  This semester I think I will start with uploading through Rstudio.  It seemed pretty easy.  
